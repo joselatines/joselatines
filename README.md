@@ -9,9 +9,10 @@ I am a Junior Frontend Web Developer who loves crypto, loves technology and play
 <hr/>
 
 ## About me
+- 💻 Freelancer
 - 🌱 I’m currently learning React JS and Python.
 - 👯 I’m looking to work in a company or small projects.
-- 🥅 2022 Goals: Become a Web3 Developer.
+- 🥅 2022 Goals: Work at high quality projects/companies.
 - ⚡ Hobbies: Basketball, anime and crypto.
 
 ## Languages and Tools 🛠
@@ -27,10 +28,12 @@ I am a Junior Frontend Web Developer who loves crypto, loves technology and play
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Sony Vegas](https://img.shields.io/badge/-Vegas-05122A?style=flat&logo=vegas)&nbsp;
 
 ## Lets connect! 😃
 
 <p>
 <a href="mailto:joselatines33@gmail.com"><img src="https://img.shields.io/badge/-joselatines33@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/jose-latines/"><img src="https://img.shields.io/badge/-joselatines-blue?logo=linkedin&style=flat-square"></a>
+ <a href="https://linktr.ee/joselatines"><img src="https://img.shields.io/badge/-joselatines-black?logo=linktree&style=flat-square"></a>
 </p>
