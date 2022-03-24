@@ -37,3 +37,6 @@ I am a Junior Frontend Web Developer who loves crypto, loves technology and play
 <a href="https://www.linkedin.com/in/jose-latines/"><img src="https://img.shields.io/badge/-joselatines-blue?logo=linkedin&style=flat-square"></a>
  <a href="https://linktr.ee/joselatines"><img src="https://img.shields.io/badge/-joselatines-black?logo=linktree&style=flat-square"></a>
 </p>
+
+## My mascot eating my contribution graph 🐍 
+![snake gif](https://github.com/joselatines/joselatines/blob/output/github-contribution-grid-snake.gif)
