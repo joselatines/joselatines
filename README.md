@@ -3,9 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;React+Js+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<h4 align="center">I am very hardworking, I detest incomplete works, I always put my best in every problem I face to deliver the best result.
+<h4 align="center">Hi! I am Jose Latines a very hardworking  Frontend Developer from :venezuela: who wants to become Full Stack Developer.
 
-I am a Junior Frontend Web Developer who loves crypto, loves technology and plays basketball in his free time.</h4> 
+Why I code? I love coding because I can bring into reality my crazy and fancy ideas, also make life easier.</h4>
+
 <hr/>
 
 ## About me
