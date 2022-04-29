@@ -17,26 +17,22 @@ Why I code? I love coding because I can bring into reality my crazy and fancy id
 - ⚡ Hobbies: Basketball, anime and crypto.
 
 ## Languages and Tools 🛠
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; \
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Sony Vegas](https://img.shields.io/badge/-Vegas-05122A?style=flat&logo=vegas)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## Lets connect! 😃
-
+  [Personal Website](https://joselatines.netlify.app) 
 <p>
-<a href="mailto:joselatines33@gmail.com"><img src="https://img.shields.io/badge/-joselatines33@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/jose-latines/"><img src="https://img.shields.io/badge/-joselatines-blue?logo=linkedin&style=flat-square"></a>
- <a href="https://linktr.ee/joselatines"><img src="https://img.shields.io/badge/-joselatines-black?logo=linktree&style=flat-square"></a>
+  <a href="mailto:joselatines33@gmail.com"><img src="https://img.shields.io/badge/-joselatines33@gmail.com-black?logo=gmail&style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/jose-latines/"><img src="https://img.shields.io/badge/-joselatines-blue?logo=linkedin&style=flat-square"></a>
+  <a href="https://linktr.ee/joselatines"><img src="https://img.shields.io/badge/-joselatines-black?logo=linktree&style=flat-square"></a>
 </p>
 
 ## My mascot eating my contribution graph 🐍 
