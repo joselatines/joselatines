@@ -1,8 +1,9 @@
-<h3>Hi, I'm Jose Latines<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-Frontend Developer from :venezuela: specialized in technologies such as Reactjs
+<h3>Hi, I'm José Latines<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<p>Frontend Developer from :venezuela: specialized in technologies such as Reactjs.<p>
 
 ## About me
 - 💻 I am currently a Freelancer but I am looking to work in a full time job.
+- 🏆 I'm a native Spanish-speaker, I learned English in the Centro Americano Venezolano (CVA)
 - 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
 - 🥅 2022 Goals: Work at high quality company as a Junior Frontend Developer.
 - ⚡ Hobbies: Basketball, anime, technology and crypto.
