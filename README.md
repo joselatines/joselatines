@@ -2,10 +2,11 @@
 <p>Frontend Developer from :venezuela: specialized in technologies such as Reactjs.<p>
 
 ## About me
-- 💻 I am currently a Freelancer but I am looking to work in a full time job.
+- 💻 I am currently a Freelancer Developer but I am looking to work in a full time job.
 - 🏆 I'm a native Spanish-speaker, I learned English in the Centro Americano Venezolano (CVA)
 - 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
 - 🥅 2022 Goals: Work at high quality company as a Junior Frontend Developer.
+- 🤓 Currently learning Node Js nad Python.
 - ⚡ Hobbies: Basketball, anime, technology and crypto.
 
 ## Languages and Tools 🛠
