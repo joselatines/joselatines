@@ -3,16 +3,17 @@
 
 ## About me
 - 💻 I am currently a Freelancer Developer but I am looking to work in a full time job.
-- 🏆 I'm a native Spanish-speaker, I learned English in the Centro Americano Venezolano (CVA)
+- 🏆 I'm a native Spanish-speaker, I learned English in the Centro Venezolano Americano (CVA)
 - 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
 - 🥅 2022 Goals: Work at high quality company as a Junior Frontend Developer.
-- 🤓 Currently learning Node Js nad Python.
+- 🤓 Currently learning Solidy and Python.
 - ⚡ Hobbies: Basketball, anime, technology and crypto.
 
 ## Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
