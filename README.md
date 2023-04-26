@@ -25,6 +25,3 @@
 
 ## My mascot eating my contribution graph 🐍 
 ![snake gif](https://github.com/joselatines/joselatines/blob/output/github-contribution-grid-snake.gif)
-  
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
