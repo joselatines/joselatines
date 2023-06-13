@@ -9,7 +9,7 @@
 - ⚡ Hobbies: Basketball, anime, technology and crypto.
   
  ## Contact! 😃
-[Personal Website](https://joselatines.vercel.app) 
+[Personal Website](https://joselatines.com) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/joselatines)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joselatines) 
 
