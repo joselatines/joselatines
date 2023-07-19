@@ -1,13 +1,9 @@
 <h3>Hi, I'm José Latines<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
-<p>As a Web Developer from :venezuela:, I specialize in technologies such as TypeScript, Node js and Python. <p>
+<p>I specialize in web development technologies such as Javascript, Node js, and Python.<p>
 
 ## About me
 - 💻 I am currently a Freelancer Developer but I am looking to work in a full-time job.
 - 🏆 I'm a native Spanish-speaker, I learned English in the Centro Venezolano Americano (CVA)
-- ⚡ Hobbies: Basketball, anime, technology and crypto.
-  
- ## Contact! 😃
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joselatines) 
 
 ## Programming languages 🛠
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
