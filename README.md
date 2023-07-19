@@ -1,5 +1,5 @@
 <h3>Hi, I'm José Latines<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
-<p>I specialize in web development technologies such as Javascript, Node js, and Python.<p>
+<p>Specialize in web development technologies such as Javascript, Node js, and Python.<p>
 
 ## About me
 - 💻 I am currently a Freelancer Developer but I am looking to work in a full-time job.
